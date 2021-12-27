@@ -5,12 +5,5 @@
 - C#
 - C++
 - HTML
-```
-      . PYTHON
-      . JAVA
-      . C#
-      . C++
-      . HTML
- ```
 - 📫 How to reach me ... warda96.sy@gmail.com
 
